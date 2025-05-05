@@ -1,4 +1,4 @@
-## Hi, I'm Logan 👋
+# Hi, I'm Logan. 👋
 
 ### I'm at Student majoring in Accounting and Business Analytics and Information Systems at the Tippie College of Business, The University of Iowa.
 <!--
