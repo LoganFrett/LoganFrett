@@ -1,6 +1,6 @@
 ## Hi, I'm Logan 👋
 
-# I'm at Student majoring in Accounting and Business Analytics and Information Systems at the Tippie College of Business, The University of Iowa.
+### I'm at Student majoring in Accounting and Business Analytics and Information Systems at the Tippie College of Business, The University of Iowa.
 <!--
 **LoganFrett/LoganFrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
